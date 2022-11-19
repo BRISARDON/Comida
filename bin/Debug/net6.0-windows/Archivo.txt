@@ -1,0 +1,25 @@
+2            Hamburguesa
+2            Papas Fritas
+2            Sprite
+2            Hamburguesa
+2            Papas Cheddar
+2            Hamburguesa c/ Queso
+3            Hamburguesa c/ Queso
+4            Doble Carne Doble Queso
+6            Papas Cheddar
+2            Sprite
+2            Hamburguesa
+4            Hamburguesa c/ Queso
+6            Papas Cheddar
+4            Doble Carne Doble Queso
+5            Papas Cheddar
+6            Sprite
+8            Doble Carne Doble Queso
+9            Papas Cheddar
+1            Sprite
+5            Hamburguesa c/ Queso
+6            Papas Cheddar
+7            Fanta
+2            Hamburguesa c/ Queso
+3            Papas Cheddar
+4            Sprite

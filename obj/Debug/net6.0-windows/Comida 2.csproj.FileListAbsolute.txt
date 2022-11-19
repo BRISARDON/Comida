@@ -1,0 +1,104 @@
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\bin\Debug\net6.0-windows\Comida 2.exe
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\bin\Debug\net6.0-windows\Comida 2.deps.json
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\bin\Debug\net6.0-windows\Comida 2.runtimeconfig.json
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\bin\Debug\net6.0-windows\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\bin\Debug\net6.0-windows\Comida 2.pdb
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.csproj.AssemblyReference.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida_2.Form1.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida_2.Properties.Resources.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.csproj.GenerateResource.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.AssemblyInfoInputs.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.AssemblyInfo.cs
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.csproj.CoreCompileInputs.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\refint\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.pdb
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida 2.genruntimeconfig.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\ref\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida 2\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.exe
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.deps.json
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.runtimeconfig.json
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\bin\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.csproj.AssemblyReference.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Form1.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Properties.Resources.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.csproj.GenerateResource.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.AssemblyInfoInputs.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.AssemblyInfo.cs
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\refint\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida 2.genruntimeconfig.cache
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\ref\Comida 2.dll
+C:\Users\Sofia\OneDrive\Documentos\Poo\Comida2\obj\Debug\net6.0-windows\Comida_2.Usuario.resources
+C:\Users\Gus\Downloads\Comida2-develop\bin\Debug\net6.0-windows\Comida 2.exe
+C:\Users\Gus\Downloads\Comida2-develop\bin\Debug\net6.0-windows\Comida 2.deps.json
+C:\Users\Gus\Downloads\Comida2-develop\bin\Debug\net6.0-windows\Comida 2.runtimeconfig.json
+C:\Users\Gus\Downloads\Comida2-develop\bin\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Gus\Downloads\Comida2-develop\bin\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.csproj.AssemblyReference.cache
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida_2.Form1.resources
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida_2.Properties.Resources.resources
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida_2.Usuario.resources
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.csproj.GenerateResource.cache
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.AssemblyInfoInputs.cache
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.AssemblyInfo.cs
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.csproj.CoreCompileInputs.cache
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\refint\Comida 2.dll
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\Comida 2.genruntimeconfig.cache
+C:\Users\Gus\Downloads\Comida2-develop\obj\Debug\net6.0-windows\ref\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\bin\Debug\net6.0-windows\Comida 2.exe
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\bin\Debug\net6.0-windows\Comida 2.deps.json
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\bin\Debug\net6.0-windows\Comida 2.runtimeconfig.json
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\bin\Debug\net6.0-windows\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\bin\Debug\net6.0-windows\Comida 2.pdb
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.csproj.AssemblyReference.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida_2.Form1.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida_2.Properties.Resources.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida_2.Usuario.resources
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.csproj.GenerateResource.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.AssemblyInfoInputs.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.AssemblyInfo.cs
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.csproj.CoreCompileInputs.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\refint\Comida 2.dll
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.pdb
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\Comida 2.genruntimeconfig.cache
+D:\IFTS 11\1°D - Segundo Cuatrimestre\Programacion OO\TP integrador\Comida2-Usuario\obj\Debug\net6.0-windows\ref\Comida 2.dll
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\bin\Debug\net6.0-windows\Comida 2.exe
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\bin\Debug\net6.0-windows\Comida 2.deps.json
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\bin\Debug\net6.0-windows\Comida 2.runtimeconfig.json
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\bin\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\bin\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.csproj.AssemblyReference.cache
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida_2.Form1.resources
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida_2.Ingredientes.resources
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida_2.Properties.Resources.resources
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida_2.Ticket.resources
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida_2.Usuario.resources
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.csproj.GenerateResource.cache
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.AssemblyInfoInputs.cache
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.AssemblyInfo.cs
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.csproj.CoreCompileInputs.cache
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.dll
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\refint\Comida 2.dll
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.pdb
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\Comida 2.genruntimeconfig.cache
+C:\Users\Sardón\Desktop\doo\tp final\Usuario-main\obj\Debug\net6.0-windows\ref\Comida 2.dll
